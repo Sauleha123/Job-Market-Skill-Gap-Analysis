@@ -37,11 +37,11 @@ It was built as a **self-initiated portfolio project** to strengthen my data ana
 
 * Designed a **5-page interactive Power BI dashboard**:
 
-  1. **Job Market Overview**
-  2. **Skill Demand Analysis**
-  3. **Skill Gap Analysis**
-  4. **Salary Insights**
-  5. **Insights & Recommendations**
+  1. **Data Analyst Job Market Overview**
+  2. **In-Demand Skills for Data Analysts**
+  3. **Skill Gap Between Entry & Senior Data Analysts**
+  4. **Salary Trends in Data Analyst Roles**
+  5. **Key Insights & Career Recommendations**
 * Added slicers for:
 
   * Location
